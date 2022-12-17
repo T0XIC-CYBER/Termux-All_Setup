@@ -1,7 +1,4 @@
-<!---GitHub README --->
-<div align="center">
-    <img align="center" alt="" src="images/https://i.postimg.cc/9M946V6H/Termux.png">
-</div>
+[![Termux.png](https://i.postimg.cc/9M946V6H/Termux.png)](https://postimg.cc/ZBTK3kYw)
 
 <p align="center">💻 𝐓𝐞𝐫𝐦𝐮𝐱 𝐀𝐥𝐥 𝐒𝐞𝐭-𝐮𝐩<a href="https://www.facebook.com/ArifHasNaiN.official"> ⚙️</a> </p>
 
@@ -32,9 +29,9 @@
 <p align="center">🖥️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧<a href="https://www.facebook.com/ArifHasNaiN.official"> 🌍</a> </p>
  
 
-``
+`
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pip install requests && pip install mechanize && pip install bs4 && pkg install git && git clone https://github.com/T0XIC-CYBER/Termux-All_Setup && cd Termux-All_Setup && bash BSCpkg.sh && python2 T-Setup
-``
+`
 <p align="center">📸𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭<a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
 
 [![Screenshot-20221217-090848-Termux.jpg](https://i.postimg.cc/XYvwrx7z/Screenshot-20221217-090848-Termux.jpg)](https://postimg.cc/RNj387t7)
