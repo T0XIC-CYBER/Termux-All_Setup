@@ -26,12 +26,15 @@
 </div>
 
 
-<p align="center">🖥️ `𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧`<a href="https://www.facebook.com/ArifHasNaiN.official"> 🌍</a> </p>
+<p align="center">🖥️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧<a href="https://www.facebook.com/ArifHasNaiN.official"> 🌍</a> </p>
  
 
+```
 
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pip install requests && pip install mechanize && pip install bs4 && pkg install git && git clone https://github.com/T0XIC-CYBER/Termux-All_Setup && cd Termux-All_Setup && bash BSCpkg.sh && python2 T-Setup
 
+
+```
 <p align="center">📸𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭<a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
 
 [![Screenshot-20221217-090848-Termux.jpg](https://i.postimg.cc/XYvwrx7z/Screenshot-20221217-090848-Termux.jpg)](https://postimg.cc/RNj387t7)
@@ -41,7 +44,7 @@ pkg update && pkg upgrade && pkg install python && pkg install python2 && pip in
 
 
 
-<p align="center">`𝐌𝐀𝐃𝐄 𝐖𝐈𝐓𝐇 𝐁𝐘`<a href="https://www.facebook.com/ArifHasNaiN.official"> `𝐀 𝐑 𝐈 𝐅`</a> </p>
+<p align="center">𝐌𝐀𝐃𝐄 𝐖𝐈𝐓𝐇 𝐁𝐘<a href="https://www.facebook.com/ArifHasNaiN.official"> 𝐀 𝐑 𝐈 𝐅</a> </p>
 
 
 <div align="center">
