@@ -1,5 +1,5 @@
 [![Termux.png](https://i.postimg.cc/9M946V6H/Termux.png)](https://postimg.cc/ZBTK3kYw)
-[![20221217-141923-removebg-preview.png](https://i.postimg.cc/Jn0xZyHc/20221217-141923-removebg-preview.png)](https://postimg.cc/BLW2GngX)
+
 <p align="center">💻 𝐓𝐞𝐫𝐦𝐮𝐱 𝐀𝐥𝐥 𝐒𝐞𝐭-𝐮𝐩<a href="https://www.facebook.com/ArifHasNaiN.official"> ⚙️</a> </p>
 
 𝙵𝚛𝚒𝚜𝚝 𝚊𝚕𝚕 `𝙲𝚘𝚙𝚢` 𝚊𝚗𝚍 `𝚃𝚎𝚛𝚖𝚞𝚡` 𝙿𝚊𝚜𝚝 𝚊𝚗𝚍 ` 𝙴𝚗𝚝𝚎𝚛 `
@@ -15,9 +15,9 @@
 <br>
 </div>
 <ul>
-<li>🇧🇩 𝐑𝐞𝐬𝐢𝐝𝐞𝐧𝐭 𝐨𝐟 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡  </li>
+<li>🇧🇩 𝐑𝐞𝐬𝐢𝐝𝐞𝐧𝐭 𝐨𝐟 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡</li>
 <li>💜 𝐌𝐮𝐬𝐥𝐢𝐦 </li>
-<li>😒 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐢𝐧 𝐚 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 </li>
+<li>😒 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐢𝐧 𝐚 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐂𝐨𝐥𝐥𝐞𝐠𝐞</li>
 <li>😪 𝐋𝐨𝐯𝐞 𝐒𝐥𝐞𝐞𝐩𝐢𝐧𝐠 </li>
 <li>💔 𝐁𝐨𝐫𝐧 𝐒𝐢𝐧𝐠𝐥𝐞 </li>
 <li>😇 𝐈'𝐦: 𝐁𝐞𝐜𝐨𝐦𝐞 𝐚 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫</li>
@@ -26,12 +26,12 @@
 </div>
 
 
-<p align="center">🖥️ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧<a href="https://www.facebook.com/ArifHasNaiN.official"> 🌍</a> </p>
+<p align="center">🖥️ `𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧`<a href="https://www.facebook.com/ArifHasNaiN.official"> 🌍</a> </p>
  
 
-`
+
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pip install requests && pip install mechanize && pip install bs4 && pkg install git && git clone https://github.com/T0XIC-CYBER/Termux-All_Setup && cd Termux-All_Setup && bash BSCpkg.sh && python2 T-Setup
-`
+
 <p align="center">📸𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭<a href="https://www.facebook.com/ArifHasNaiN.official">📸</a> </p>
 
 [![Screenshot-20221217-090848-Termux.jpg](https://i.postimg.cc/XYvwrx7z/Screenshot-20221217-090848-Termux.jpg)](https://postimg.cc/RNj387t7)
@@ -41,7 +41,7 @@ pkg update && pkg upgrade && pkg install python && pkg install python2 && pip in
 
 
 
-<p align="center">𝐌𝐀𝐃𝐄 𝐖𝐈𝐓𝐇 𝐁𝐘<a href="https://www.facebook.com/ArifHasNaiN.official"> 𝐀 𝐑 𝐈 𝐅</a> </p>
+<p align="center">`𝐌𝐀𝐃𝐄 𝐖𝐈𝐓𝐇 𝐁𝐘`<a href="https://www.facebook.com/ArifHasNaiN.official"> `𝐀 𝐑 𝐈 𝐅`</a> </p>
 
 
 <div align="center">
