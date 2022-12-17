@@ -1,5 +1,5 @@
 [![Termux.png](https://i.postimg.cc/9M946V6H/Termux.png)](https://postimg.cc/ZBTK3kYw)
-
+[![20221217-141923-removebg-preview.png](https://i.postimg.cc/Jn0xZyHc/20221217-141923-removebg-preview.png)](https://postimg.cc/BLW2GngX)
 <p align="center">💻 𝐓𝐞𝐫𝐦𝐮𝐱 𝐀𝐥𝐥 𝐒𝐞𝐭-𝐮𝐩<a href="https://www.facebook.com/ArifHasNaiN.official"> ⚙️</a> </p>
 
 𝙵𝚛𝚒𝚜𝚝 𝚊𝚕𝚕 `𝙲𝚘𝚙𝚢` 𝚊𝚗𝚍 `𝚃𝚎𝚛𝚖𝚞𝚡` 𝙿𝚊𝚜𝚝 𝚊𝚗𝚍 ` 𝙴𝚗𝚝𝚎𝚛 `
