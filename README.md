@@ -1,6 +1,6 @@
 <!---GitHub README --->
 <div align="center">
-    <img align="center" alt="" src="images/Termux.png">
+    <img align="center" alt="" src="images/https://i.postimg.cc/9M946V6H/Termux.png">
 </div>
 
 <p align="center">💻 𝐓𝐞𝐫𝐦𝐮𝐱 𝐀𝐥𝐥 𝐒𝐞𝐭-𝐮𝐩<a href="https://www.facebook.com/ArifHasNaiN.official"> ⚙️</a> </p>
